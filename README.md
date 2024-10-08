@@ -1,1 +1,1 @@
-# Word_Completion_using_LSTM
+# CNN Signature Recognition model
